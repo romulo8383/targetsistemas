@@ -1,0 +1,10 @@
+3 interruptores 
+3 salas
+2 idas até a sala.
+
+além da percepção da luminosidade a lâmpada tambem aquece, poderia usar essa outra
+caracteristica pra determinar qual lâmpada e de cada sala, ascende uma lâmpada espera uns 5 min, 
+vamos dizer que essa lâmpada seria o interruptor de cima, após os 5 min, desliga o interruptor de 
+cima e liga o do centro, vai pras salas, a lampada que estiver ascesa é do interruptor do centro, 
+a que estiver quente e a do interruptor de cima, a que tiver apagada e fria é do innterruptor de 
+baixo. precisando apenas de uma ida pra determinar qual interruptor e de cada lâmpada.  
